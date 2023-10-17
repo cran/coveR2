@@ -1,0 +1,12 @@
+citHeader("To cite coveR in publications use:")
+
+bibentry(
+bibtype = "Article",
+  title = "coveR: an R package for processing digital cover photography images to retrieve forest canopy attributes",
+  author = c(person("Francesco","Chianucci"),
+             person("Carlotta","Ferrara"),
+             person("Nicola","Puletti")),
+  year = 2022,
+  journal= "Trees",
+  url = "https://doi.org/10.1007/s00468-022-02338-5")
+
